@@ -1,0 +1,4 @@
+Steps
+
+ruby server.rb
+curl -d "ingredient=my ingredient" http://localhost:4567/ingredients
